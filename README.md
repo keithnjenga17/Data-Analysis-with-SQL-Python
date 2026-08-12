@@ -2,61 +2,38 @@
 
 Welcome to my data analytics portfolio.
 
-This repository contains practical data analysis projects and structured challenges designed to demonstrate my ability to work with data from **data preparation and cleaning through analysis, visualization, and business insight generation**.
+This repository contains practical data analysis projects demonstrating how I use **SQL, Python, Excel, and Power BI** to clean, analyze, visualize, and communicate insights from data.
 
-The projects cover **SQL, Python, Excel, and Power BI**, with a focus on developing practical analytical and problem-solving skills using real-world datasets and business-oriented questions.
-
----
-
-## About This Repository
-
-This portfolio documents my ongoing development as a data analyst and provides practical examples of how I approach different stages of the data analysis process.
-
-The work in this repository includes:
-
-* Data cleaning and preparation
-* Exploratory data analysis
-* SQL querying and data transformation
-* Statistical and descriptive analysis
-* Data visualization
-* Business performance analysis
-* Dashboard development
-* Data quality checks
-* Identifying trends and patterns
-* Extracting actionable business insights
-* Communicating analytical findings
-
-Rather than focusing only on the technical execution of a task, the projects aim to connect **data analysis with practical business questions and decision-making**.
+The projects are built around **business questions and real-world analytical scenarios**, with an emphasis on turning raw data into meaningful insights that can support business decision-making.
 
 ---
 
-## Technical Skills
+## Skills & Tools
 
 ### SQL
 
-* Data retrieval and filtering
-* `SELECT`, `WHERE`, `GROUP BY`, `HAVING`
-* Aggregate functions
-* `JOIN` operations
+* Data querying and filtering
+* Aggregations and grouping
+* JOINs
 * Subqueries
 * Common Table Expressions (CTEs)
 * Window functions
-* `CASE` statements
+* CASE statements
 * Date and text manipulation
 * Data type conversion
-* Handling missing and duplicate data
-* Data transformation and analysis
+* Data cleaning and transformation
+* Business-focused data analysis
 
 ### Python
 
-* Python fundamentals
 * Pandas
 * NumPy
-* Data cleaning and transformation
+* Data cleaning and preparation
 * Exploratory Data Analysis (EDA)
-* Statistical analysis
-* Data aggregation and grouping
-* Handling missing values and duplicates
+* Data transformation
+* Grouping and aggregation
+* Missing-value analysis
+* Duplicate detection
 * Outlier analysis
 * String and text manipulation
 * Time-series analysis
@@ -66,11 +43,11 @@ Rather than focusing only on the technical execution of a task, the projects aim
 
 * Matplotlib
 * Seaborn
-* Exploratory visualizations
 * Distribution analysis
 * Trend analysis
 * Correlation analysis
 * Categorical comparisons
+* Exploratory visualizations
 
 ### Excel
 
@@ -93,7 +70,7 @@ Rather than focusing only on the technical execution of a task, the projects aim
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
 Data-Analysis-with-SQL-Python/
@@ -110,9 +87,6 @@ Data-Analysis-with-SQL-Python/
 ├── SQL Data Analysis Projects/
 │   └── SQL-based data querying, transformation and analysis projects
 │
-├── SQL & Python Data Challenges.md
-│   └── Structured SQL and Python data analysis challenges
-│
 └── README.md
 ```
 
@@ -120,23 +94,34 @@ Data-Analysis-with-SQL-Python/
 
 # Project Approach
 
-Where applicable, the projects in this portfolio follow a consistent analytical workflow:
+The practical projects in this portfolio follow a consistent analytical workflow.
 
-### 1. Business Question
+## 1. Business Question
 
-Define the business problem or analytical question that needs to be answered.
+Each project begins by defining the business problem or analytical question that needs to be answered.
 
-### 2. Dataset
+## 2. Dataset
 
-Identify the dataset and understand the available variables, structure, and context.
+The dataset is introduced, including its purpose, structure, and relevant variables.
 
-### 3. Tools
+## 3. Tools
 
-Select the appropriate analytical tools based on the problem, including SQL, Python, Excel, or Power BI.
+The appropriate tools are selected based on the analytical requirements of the project.
 
-### 4. Data Cleaning
+These may include:
 
-Prepare the data for analysis by addressing issues such as:
+* SQL
+* Python
+* Pandas
+* NumPy
+* Excel
+* Power BI
+* Matplotlib
+* Seaborn
+
+## 4. Data Cleaning
+
+The data is prepared for analysis by identifying and addressing issues such as:
 
 * Missing values
 * Duplicate records
@@ -146,136 +131,120 @@ Prepare the data for analysis by addressing issues such as:
 * Formatting issues
 * Outliers where appropriate
 
-### 5. Analysis
+## 5. Analysis
 
-Explore the data and apply appropriate analytical techniques to answer the business questions.
+The cleaned data is analyzed to answer the defined business questions and identify important trends, patterns, relationships, and performance indicators.
 
-### 6. Visualizations
+## 6. Visualizations
 
-Use appropriate charts, tables, and dashboards to communicate patterns, trends, relationships, and comparisons.
+Charts, tables, and dashboards are used to communicate the results and make important patterns easier to understand.
 
-### 7. Key Findings
+## 7. Key Findings
 
-Summarize the most important insights identified from the analysis.
+The most important insights from the analysis are summarized clearly.
 
-### 8. Business Recommendations
+## 8. Business Recommendations
 
-Where applicable, translate the findings into practical recommendations that could support business decision-making.
-
----
-
-# Featured Areas
-
-## SQL Data Analysis
-
-The SQL projects demonstrate my ability to work with relational data and use SQL to transform raw datasets into useful analytical information.
-
-The work includes querying, filtering, aggregation, joins, subqueries, CTEs, window functions, date manipulation, and other SQL techniques used in practical data analysis.
+Where appropriate, analytical findings are translated into practical recommendations that could support business decisions.
 
 ---
 
-## Python Data Analysis
-
-The Python projects focus on using **Pandas, NumPy, Matplotlib, and Seaborn** to clean, explore, analyze, and visualize datasets.
-
-Projects cover areas such as:
-
-* Data cleaning
-* Exploratory Data Analysis
-* Descriptive statistics
-* Data transformation
-* Grouping and aggregation
-* Time-series analysis
-* Correlation analysis
-* Visualization
-* Data quality assessment
-
----
+# Practical Projects
 
 ## Excel Projects
 
-The Excel projects demonstrate the use of spreadsheets for data preparation, analysis, reporting, and visualization.
+This section contains practical projects demonstrating the use of Excel for data preparation, analysis, reporting, and visualization.
 
-These projects focus on applying Excel to practical business analysis rather than simply demonstrating individual formulas or functions.
+The projects focus on applying Excel to business-oriented analytical problems rather than simply demonstrating individual formulas or functions.
 
 ---
 
 ## Power BI Projects
 
-The Power BI section contains dashboard and business intelligence projects focused on transforming data into interactive reports.
+This section contains interactive business intelligence and dashboard projects.
 
-Projects demonstrate:
+Projects demonstrate the ability to:
 
-* Data preparation
-* Data modelling
-* DAX calculations
-* KPI development
-* Interactive visualizations
-* Business performance analysis
-* Dashboard design
+* Prepare and transform data
+* Build data models
+* Create DAX measures
+* Develop KPIs
+* Design interactive dashboards
+* Analyze business performance
+* Communicate insights visually
 
 ---
 
-# SQL & Python Data Challenges
+## Python Data Analysis Projects
 
-The repository also contains a structured SQL and Python challenge designed to strengthen practical problem-solving skills.
+This section contains practical projects using Python to clean, explore, analyze, and visualize datasets.
 
-The challenges involve solving data-related problems using SQL and Python and documenting the approach used to arrive at each solution.
+The projects make use of libraries including:
 
-This section demonstrates consistent technical practice across:
-
-* SQL querying
-* Python programming
 * Pandas
 * NumPy
-* Data manipulation
-* Data cleaning
-* Data analysis
-* Problem solving
+* Matplotlib
+* Seaborn
+
+The analysis covers areas such as data cleaning, exploratory analysis, statistical analysis, data transformation, visualization, and business insight generation.
 
 ---
 
-# What This Portfolio Demonstrates
+## SQL Data Analysis Projects
 
-Through these projects, I am developing and demonstrating the ability to:
+This section contains practical projects demonstrating the use of SQL to query, transform, and analyze data.
+
+The projects cover techniques including:
+
+* Filtering and aggregation
+* JOINs
+* Subqueries
+* CTEs
+* Window functions
+* Date manipulation
+* Data transformation
+* Business performance analysis
+
+---
+
+# What These Projects Demonstrate
+
+Through these projects, I demonstrate my ability to:
 
 * Translate business questions into analytical problems
-* Work with structured and unstructured datasets
+* Work with structured datasets
 * Clean and prepare data for analysis
 * Query and transform data using SQL
-* Analyze datasets using Python
+* Analyze data using Python
+* Use Excel for practical business analysis
+* Build interactive Power BI dashboards
 * Identify trends, patterns, and relationships
-* Build meaningful visualizations
-* Develop interactive Power BI dashboards
-* Communicate analytical findings clearly
-* Approach data problems systematically
-* Translate analytical results into business insights
+* Create meaningful data visualizations
+* Communicate analytical findings
+* Translate data insights into practical business recommendations
+* Approach analytical problems in a structured and systematic way
 
 ---
 
-# Tools & Technologies
+# Portfolio Focus
+
+This portfolio focuses on developing and demonstrating practical capabilities in **data analytics and business intelligence**.
+
+My work combines technical data skills with business-oriented analysis, with the goal of answering practical questions and producing insights that can support better decision-making.
+
+The portfolio will continue to evolve as I work on more complex datasets and expand my experience across **SQL, Python, Excel, Power BI, data visualization, statistics, and business analytics**.
+
+---
+
+## Tools & Technologies
 
 | Category                | Tools               |
 | ----------------------- | ------------------- |
 | Programming             | Python              |
 | Data Analysis           | Pandas, NumPy       |
-| SQL                     | SQL                 |
+| Database / Querying     | SQL                 |
 | Visualization           | Matplotlib, Seaborn |
 | Business Intelligence   | Power BI            |
 | Spreadsheet Analysis    | Microsoft Excel     |
-| Development Environment | Jupyter Notebook    |
 | Version Control         | Git & GitHub        |
-
----
-
-# Portfolio Goal
-
-The goal of this repository is to build a strong body of practical data analytics work while continuously improving my technical, analytical, and business problem-solving abilities.
-
-The portfolio will continue to evolve as I work on more complex projects and expand my experience with **SQL, Python, Excel, Power BI, statistics, data quality, and business analytics**.
-
----
-
-## Connect
-
-**GitHub:** [github.com/keithnjenga17](https://github.com/keithnjenga17)
+| Development Environment | Jupyter Notebook    |
